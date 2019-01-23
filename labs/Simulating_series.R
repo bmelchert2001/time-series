@@ -18,4 +18,4 @@ z[1]=e[1]
 plot(z, type="o", main = "Moving Average Series", col="red")
 abline(0,0)
 ##
-##
+
